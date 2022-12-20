@@ -61,3 +61,13 @@
     transition: filter 2s;
 }
 
+/* ex8 */
+.ex-8-img:hover {
+    filter: grayscale(75%);
+    border-radius: 20px;
+}
+
+.ex-8-img {
+    transition: all 2s;
+}
+
