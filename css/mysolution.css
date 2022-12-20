@@ -82,3 +82,18 @@
 .ex-9-img {
     transition: all 2s;
 }
+
+/* ex10 */
+.ex-10-icon {
+    animation: rolling 1s infinite linear;
+}
+
+@keyframes rolling {
+    0% {
+        transform: rotate(0);
+    }
+
+    100% {
+        transform: rotate(-360deg);
+    }
+}
