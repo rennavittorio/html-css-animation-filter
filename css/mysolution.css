@@ -46,3 +46,9 @@
 .ex-5-square {
     transition: scale 2s;
 }
+
+/* ex6 */
+.ex-6-img:hover {
+    filter: grayscale(1.0);
+}
+
