@@ -71,3 +71,14 @@
     transition: all 2s;
 }
 
+
+/* ex9 */
+.ex-9-img:hover {
+    filter: grayscale(75%);
+    border-radius: 20px;
+    scale: 1.5;
+}
+
+.ex-9-img {
+    transition: all 2s;
+}
