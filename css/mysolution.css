@@ -33,3 +33,16 @@
 .ex-4-square {
     transition: opacity 2s;
 }
+
+/* ex5 */
+.ex-5-square:hover {
+   scale: 2;
+}
+
+.ex-5-square:active {
+    scale: 0.5;
+}
+
+.ex-5-square {
+    transition: scale 2s;
+}
