@@ -52,3 +52,12 @@
     filter: grayscale(1.0);
 }
 
+/* ex7 */
+.ex-7-img:hover {
+    filter: grayscale(1.0);
+}
+
+.ex-7-img {
+    transition: filter 2s;
+}
+
