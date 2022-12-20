@@ -15,3 +15,12 @@
 .ex-2-square {
     transition: width 3s;
 }
+
+/* ex3 */
+.ex-3-square:hover {
+    border-radius: 50%;
+}
+
+.ex-3-square {
+    transition: border-radius 1s;
+}
